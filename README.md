@@ -1,2 +1,3 @@
 # Bishwas_chaudhary
-My Frist GitHub repository 
+This is my Frist GitHub repository 
+my name bishwas chaudhary 
